@@ -14,7 +14,7 @@ function planetas(){
    alert("tu peso en jupiter es " + pesoJupiter.toFixed(1));
 	alert("tu peso en saturno es " + pesoSaturno.toFixed(1));
 	alert("tu peso en urano es " + pesoUrano.toFixed(1));
-	alert("tu peso en neptuno es " + pesoNeptuno.toFixed(
+	alert("tu peso en neptuno es " + pesoNeptuno.toFixed(1));
 	 alert("tu peso en mercurio es" + peso_mercurio);
 	 alert("tu peso en venus es" + peso_venus);
 	 alert("tu peso en tierra es" + peso_tierra);
